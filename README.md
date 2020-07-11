@@ -1,5 +1,5 @@
 # INFS7450
- This is the class projects of INFS7450 Social Media
+ This is the class projects of INFS7450 Social Media Analysis
 
 ## Project One
 Betweenness Centrality & Page Rank
